@@ -1,2 +1,2 @@
 # facefilter-blinkrunninggame
-Face Filter - Blink Running Game with AR Spark Studio
+AR Spark Studio - Face Filter - Blink Running Games
